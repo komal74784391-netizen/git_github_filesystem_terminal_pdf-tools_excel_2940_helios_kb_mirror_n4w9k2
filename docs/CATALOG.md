@@ -15,6 +15,6 @@ Maintenance rules:
 | guides/build/daily-workflows/sharing/how-to.md | Daily Workflows · Sharing: How To | dev.patel | review |
 | guides/discover/core-concepts/accounts/overview.md | Core Concepts · Accounts: Overview | aiko.tanaka | published |
 | guides/discover/core-concepts/content/overview.md | Core Concepts · Content: Overview | ben.okuya | published |
-| guides/measure/configuration/accounts/reference.md | Configuration · Accounts: Reference | elif.sari | published |
+| guides/measure/configuration/accounts/reference.md | Configuration · Accounts: Reference | elif.sari | review |
 | guides/operate/troubleshooting/content/how-to.md | Troubleshooting · Content: How To | finn.rodrigues | review |
 | guides/operate/troubleshooting/sharing/reference.md | Troubleshooting · Sharing: Reference | grace.mbeki | draft |
