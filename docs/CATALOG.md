@@ -18,3 +18,5 @@ Maintenance rules:
 | guides/measure/configuration/accounts/reference.md | Configuration · Accounts: Reference | elif.sari | review |
 | guides/operate/troubleshooting/content/how-to.md | Troubleshooting · Content: How To | finn.rodrigues | review |
 | guides/operate/troubleshooting/sharing/reference.md | Troubleshooting · Sharing: Reference | grace.mbeki | draft |
+
+<!-- mirror sync checkpoint -->
